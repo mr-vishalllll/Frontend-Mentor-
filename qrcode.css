@@ -1,0 +1,51 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+}   
+
+.qrback{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 20px;    
+    width: 280px;
+    height: 450px;
+    margin:100px auto;
+
+}
+
+
+.qrimg{
+    position: relative;
+    width: 250px;
+    margin: 15px 15px;
+    border-radius: 15px;    
+}
+
+.para1 {
+    font-family: "Outfit";
+    font-optical-sizing: auto;
+    font-weight: 700;
+    width: 220px;
+    font-size: 18px;
+    text-align:center;
+    margin: auto;
+  }
+
+.para2 {
+    font-family: "Outfit";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    width: 220px;
+    font-size: 13px;
+    text-align: center;
+    margin: auto;
+  }
+
+.para3{
+    font-family: "Outfit";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    width: 220px;
+    font-size: 14px;
+    text-align: center;
+    margin: auto;
+}
